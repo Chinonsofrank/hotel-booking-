@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hotels.ng	TRUE	/	FALSE	1999999999	timbu_auth_session	anlkhcqj1uvhp5b5vnra20ljor
+hotels.ng	TRUE	/	FALSE	1999999999	utmTags	%7B%22utm_source%22%3A%22home%22%2C%22utm_campaign%22%3A%22top-deals%22%2C%22utm_medium%22%3A%22on-site%22%2C%22utm_content%22%3A%22luxol-homes-suites%22%2C%22p%22%3Anull%2C%22page_link%22%3A%22%5C%2Fhotel%5C%2F1470842-luxol-homes-suites%22%2C%22page_title%22%3A%22Luxol%20Homes%20%26%20Suites%20%7C%20Hotel%20in%20Ikeja%20%7C%20Hotels.ng%22%2C%22visited_at%22%3A1697403982%7D
+
